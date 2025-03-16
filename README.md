@@ -63,9 +63,9 @@ This project is a real-time speech-to-speech translator that allows users to spe
 
       >-> and to remove all the leftovers, go to the path where you have installed it previously and delete the python folder
       
-     iii. then reinstall the python 3.10 or lower version form the above link
+     iii. Then reinstall the python 3.10 or lower version form the above link
 
-     iv. after installing python, set environment variable
+     iv. After installing python, set environment variable
    
      >-> open command prompt and type `where python`
 
@@ -83,7 +83,7 @@ This project is a real-time speech-to-speech translator that allows users to spe
         "C:\Users\yourname\AppData\Local\Programs\Python\Python310\Scripts" and then hit ok and save the chnages and close all the wiindows.
         for more guide visit the [link](https://www.youtube.com/watch?v=DHd36WBQeDo)
 
-3. install pyaudio in your PC
+3. Install pyaudio in your PC
 
    >-> go to this [link](https://pypi.org/project/PyAudio/#files) and download the pyaudio wheel files which is named as "PyAudio-0.2.14-cp310-cp310-win_amd64" for python 3.10
 
@@ -92,3 +92,31 @@ This project is a real-time speech-to-speech translator that allows users to spe
    >-> after that type `pip install PyAudio-0.2.14-cp310-cp310-win_amd64` and for more guide for the [link](https://www.youtube.com/watch?v=gVZZzb_FIXo)
 
 4. Now open the code in Visual Studio Code, open new terminals and install all the dependencies using by this command `pip install opencv-  python SpeechRecognition deep-translator gtts pygame`
+
+
+
+**Table for Language codes(keys)**
+ |Language| code | 
+|----------|----------|
+| Row 1, Engish | Row 1, `en` | 
+| Row 2, Chinese (Simplified) | Row 2, `zh-CN` | 
+| Row 3, Chinese (Traditional) | Row 3, `zh-TW` | 
+| Row 4, Hindi | Row 4, `hi` | 
+| Row 5, Spanish | Row 5, `es` | 
+| Row 6, French | Row 6, `fr` | 
+| Row 7, Cell 1 | Row 7, Cell 2 | 
+| Row 8, Cell 1 | Row 8, Cell 2 | 
+| Row 9, Cell 1 | Row 9, Cell 2 | 
+| Row 10, Cell 1 | Row 10, Cell 2 | 
+| Row 11, Cell 1 | Row 11, Cell 2 | 
+| Row 12, Cell 1 | Row 12, Cell 2 | 
+| Row 13, Cell 1 | Row 13, Cell 2 | 
+| Row 14, Cell 1 | Row 14, Cell 2 | 
+| Row 15, Cell 1 | Row 15, Cell 2 | 
+| Row 16, Cell 1 | Row 16, Cell 2 | 
+| Row 17, Cell 1 | Row 17, Cell 2 | 
+| Row 18, Cell 1 | Row 18, Cell 2 | 
+| Row 19, Cell 1 | Row 19, Cell 2 | 
+| Row 20, Cell 1 | Row 20, Cell 2 | 
+| Row 21, Cell 1 | Row 21, Cell 2 | 
+| Row 22, Cell 1 | Row 22, Cell 2 | 
