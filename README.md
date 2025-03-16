@@ -13,6 +13,7 @@ Language barriers make global communication difficult, especially in video calls
 This project is a real-time speech-to-speech translator that allows users to speak in English, automatically translates it to Hindi, and then speaks out the translated text. The program integrates computer vision, speech recognition, translation, and text-to-speech technologies to provide a seamless translation experience.
 
 
+
 ✅**How It Works:**
 
 🔹Opens the camera using OpenCV.
@@ -26,6 +27,7 @@ This project is a real-time speech-to-speech translator that allows users to spe
 🔹Converts translated text into speech using Google Text-to-Speech (gTTS).
 
 🔹Speaks out the translated text while keeping the camera running.
+
 
 
 ✅**Key Technologies Used**
@@ -45,6 +47,7 @@ This project is a real-time speech-to-speech translator that allows users to spe
 🔹 File Handling (os, time) → Manages temporary audio files and prevents system slowdowns.
 
 
+
 📌**Setup and Installation Guide:**
 1. If you don't have python isntalled in your PC, Intsall Python 3.10 or lower version [link](https://www.python.org/downloads/release/python-3100/)
    
@@ -58,7 +61,8 @@ This project is a real-time speech-to-speech translator that allows users to spe
 
       >-> Press `win+I` key it will open settings, go to apps, and search for python and click uninstall it
 
-      >-> and to remove all the leftovers, go to the path where you have installed it previously and delete the python folder 
+      >-> and to remove all the leftovers, go to the path where you have installed it previously and delete the python folder
+      
      iii. then reinstall the python 3.10 or lower version form the above link
 
      iv. after installing python, set environment variable
