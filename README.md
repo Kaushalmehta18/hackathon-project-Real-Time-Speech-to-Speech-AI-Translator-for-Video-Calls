@@ -94,6 +94,8 @@ This project is a real-time speech-to-speech translator that allows users to spe
 4. Now open the code in Visual Studio Code, open new terminals and install all the dependencies using by this command `pip install opencv-  python SpeechRecognition deep-translator gtts pygame`
 
 
+**Short Demo Video on demonastrating working of this prototype** [Link](https://drive.google.com/file/d/11QvosufaOMJsoSxKULtx11kOxItY2GwB/view?usp=sharing)
+
 
 **Table for Language codes(keys)**
 
