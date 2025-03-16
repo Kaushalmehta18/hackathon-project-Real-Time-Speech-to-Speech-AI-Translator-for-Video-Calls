@@ -98,9 +98,9 @@ This project is a real-time speech-to-speech translator that allows users to spe
 **Table for Language codes(keys)**
 
 
-you can use these code to convert the output language, just you have to put language key in this code line `translated_text = GoogleTranslator(source="auto", target="hi").translate(text)` where target="your langugae code" and the system will start giving output in your desire language
+you can use these code to convert the output language, just you have to put language key in this code line `translated_text = GoogleTranslator(source="auto", target="hi").translate(text)` where `target="your langugae code"` and the system will start giving output in your desire language
 
-Here are the language codes (keys) for translating into widely spoken languages using deep_translator:
+**Here are the language codes (keys) for translating into widely spoken languages :-**
 
  |Language| code | 
 |----------|----------|
