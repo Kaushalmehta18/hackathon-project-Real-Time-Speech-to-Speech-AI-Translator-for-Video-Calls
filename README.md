@@ -96,27 +96,33 @@ This project is a real-time speech-to-speech translator that allows users to spe
 
 
 **Table for Language codes(keys)**
+
+
+you can use these code to convert the output language, just you have to put language key in this code line `translated_text = GoogleTranslator(source="auto", target="hi").translate(text)` where target="your langugae code" and the system will start giving output in your desire language
+
+Here are the language codes (keys) for translating into widely spoken languages using deep_translator:
+
  |Language| code | 
 |----------|----------|
-| Row 1, Engish | Row 1, `en` | 
-| Row 2, Chinese (Simplified) | Row 2, `zh-CN` | 
-| Row 3, Chinese (Traditional) | Row 3, `zh-TW` | 
-| Row 4, Hindi | Row 4, `hi` | 
-| Row 5, Spanish | Row 5, `es` | 
-| Row 6, French | Row 6, `fr` | 
-| Row 7, Cell 1 | Row 7, Cell 2 | 
-| Row 8, Cell 1 | Row 8, Cell 2 | 
-| Row 9, Cell 1 | Row 9, Cell 2 | 
-| Row 10, Cell 1 | Row 10, Cell 2 | 
-| Row 11, Cell 1 | Row 11, Cell 2 | 
-| Row 12, Cell 1 | Row 12, Cell 2 | 
-| Row 13, Cell 1 | Row 13, Cell 2 | 
-| Row 14, Cell 1 | Row 14, Cell 2 | 
-| Row 15, Cell 1 | Row 15, Cell 2 | 
-| Row 16, Cell 1 | Row 16, Cell 2 | 
-| Row 17, Cell 1 | Row 17, Cell 2 | 
-| Row 18, Cell 1 | Row 18, Cell 2 | 
-| Row 19, Cell 1 | Row 19, Cell 2 | 
-| Row 20, Cell 1 | Row 20, Cell 2 | 
-| Row 21, Cell 1 | Row 21, Cell 2 | 
-| Row 22, Cell 1 | Row 22, Cell 2 | 
+| Engish | `en` | 
+| Chinese (Simplified) | `zh-CN` | 
+| Chinese (Traditional) | `zh-TW` | 
+| Hindi | `hi` | 
+| Spanish |  `es` | 
+| French | `fr` | 
+| German | `de` | 
+| Russian | `ru` | 
+| Portuguese | `pt` | 
+| Arabic | `ar` | 
+| Japanese | `ja` | 
+| Korean | `ko` | 
+| Italian | `it` | 
+| Dutch | `nl` | 
+| Turkish | `tr` | 
+| Bengali | `bn` | 
+| Urdu | `ur` | 
+| Greek | `el` | 
+| Hebrew | `he` | 
+| Indonesian | `id` | 
+| Thai | `th` | 
+| Vietnamese | `vi` | 
