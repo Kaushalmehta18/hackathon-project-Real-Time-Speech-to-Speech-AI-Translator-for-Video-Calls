@@ -10,7 +10,7 @@ Language barriers make global communication difficult, especially in video calls
 
 📌**Solution Overview:**
 
-This project is a real-time speech-to-speech translator that allows users to speak in English, automatically translates it to Hindi, and then speaks out the translated text. The program integrates computer vision, speech recognition, translation, and text-to-speech technologies to provide a seamless translation experience.
+This project is a real-time speech-to-speech translator that allows users to speak in their native language, automatically translates it intto desire language, and then speaks out the translated text. The program integrates computer vision, speech recognition, translation, and text-to-speech technologies to provide a seamless translation experience.
 
 
 
